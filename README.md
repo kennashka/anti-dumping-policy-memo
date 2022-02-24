@@ -1,5 +1,5 @@
-# anti-dumping-whitepaper
-
+# anti-dumping-policy-memo
+# Author: Kennashka DeSilva
 
 
 
@@ -10,7 +10,7 @@
 
 
 US Policy Memo 
-July 29th  2021 
+Feburary 24th  2022 
 
 
 Regulating new paradigm shifts in the economy targeting, security and growth, where (DAO) decentralized autonomous organizations and  DeFi Applications provides ongoing digital revenue streams for the city, while also generating digital revenue for the participating members.  
