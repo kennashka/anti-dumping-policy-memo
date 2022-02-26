@@ -1,7 +1,7 @@
 # anti-dumping-policy-memo
-# Author: 
-Entercloud Org -
-Kennashka DeSilva
+### Author: 
+Entercloud Org
+ - Kennashka DeSilva
 
 
 
