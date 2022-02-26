@@ -1,0 +1,27 @@
+## Gross Domestic Defi Product Enablement
+
+Sovereign Digital Assets are entities that are accessed with government represented networks for the purpose of decentralized finances investments 
+
+Executive Order Ready initiatives - Supports steps toward U.S regulation with Cryptocurrency policy rollout plans. 
+
+A System Access Design framework that Guides All Message calls against any sovereign contract by passing in a list of pre-approved references into the memory of the EVM and not directly via jumps
+
+This is achieved by focusing on memory variables. 
+- Values that are only stored for the lifetime of a contract function's execution are called memory variables. Since these are not stored permanently on the blockchain, they are much cheaper to use.
+
+
+Target sovereign assets whitelist external functions from pre-qualified wallet addresses and organizations 
+- Enables taxable Total Value Locked (TVL) 
+- Ensures Healthy and Organic Token Economy ( No Government Whales ) 
+- Qualifies Decentrizled automation government organizations (DAO) 
+- Enable digital economy expansion and growth by allowing Liquidity for foreign sidechains
+ (metaverse potential )  
+ 
+ 
+ 
+ ###  Sovereign Events 
+```
+event Transfer(address indexed from, address indexed to, uint256 value);
+```
+The event signature is declared inside of the contract code and can be emitted with the emit keyword. For example, the transfer event logs who sent the transfer (from), to who (to) and how much tokens were transferred (value).
+
